@@ -18,4 +18,4 @@ Ps: I've updated this below to better handle the change in User Agent with the n
 
 Permissions for use: As you would have read above, this is found in the (mb)Menu code. And I've not added any restrictions to it - so go nuts :)  (Pupunzi uses MIT and GPL v2 for the licencing.)
 
-Btw: Pupunzi is great. Have a look at pupunzi.com - some great stuff going on there. :)
+Btw: Pupunzi is great. Have a look at www.pupunzi.com - some great stuff going on there. :)
